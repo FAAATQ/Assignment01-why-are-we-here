@@ -1,8 +1,18 @@
 # Assignment 1 — Why Are We Here?
 
-**Course:** SD5913 — Programming for Artists and Designers<br>
-**Submission:** Public GitHub repository; submit this repository URL through Canvas.
 
-## Reflection
 
-The final 500–1000 word reflection will be written in this README.
+
+I am not learning programming in order to replace professional programmers. I am learning it because I want to understand how game systems work and to judge whether an AI-generated implementation actually fits a project's needs. AI tools can now produce code, suggest technical approaches, and build simple prototypes quickly. However, speed alone does not make an idea suitable for a real game project. I want programming knowledge to help me use AI more efficiently and accurately, strengthen my system-thinking and implementation skills, and make the best use of my design ability.
+
+For a game designer, creativity is not the same as an implementable design. A design document can contain an original concept and a clear player-experience goal, yet still be difficult to deliver if it overlooks the technical limits of existing systems, data structures, state logic, performance costs, or dependencies between features. For example, a proposal for enemies that adapt dynamically to player behaviour may sound compelling, but it also requires clear state transitions, reusable rules, tuning parameters, and acceptable performance when several enemies are active at once. Without considering these questions, a proposal may look excellent on paper while remaining vague or impractical in production.
+
+This gap can create unnecessary communication costs between design, programming, art, animation, and production. It can also cause the final implementation to differ from the original design intention. I want the design documents I produce to be creative, but I also want them to describe a feature clearly enough that a team can discuss its feasibility, identify risks, and implement it with fewer misunderstandings. Learning basic programming principles and system architecture will help me break a design goal into executable rules, adjustable parameters, and testable processes. It will also help me specify priorities and edge cases instead of leaving important decisions vague.
+
+AI makes this knowledge more important rather than less important. An AI assistant can generate a script or propose an implementation, but it cannot automatically understand the complete context of a game project. Its output may be syntactically valid while conflicting with an existing architecture, performing poorly, creating unhandled edge cases, or producing an experience that does not match the design goal. If I do not understand the underlying logic well enough, I will not be able to recognise these errors or correct them quickly. I may accept a solution simply because it runs, even if it is difficult to maintain or wrong for the game.
+
+For this reason, I see programming as a way to take meaningful responsibility for AI-assisted development. I need to be able to give AI precise requirements, inspect its results, test important conditions, and ask for changes when an approach does not suit the project. This does not mean that I should try to do every specialist's job. Large games depend on professional programmers and on close collaboration across disciplines. Instead, programming literacy can help me communicate with specialists more accurately, respect implementation constraints, and make better design decisions before problems become expensive to fix.
+
+My short-term goal is to join a large game studio and gain experience on industrial-scale productions. I want to learn from established production processes and from collaboration with programmers, artists, animators, and producers. My long-term goal is to lead the development of my own game projects. In a large team, programming knowledge will help me communicate design intent more precisely and reduce friction during implementation. In an independent project, it will help me evaluate prototypes, organise resources, and make informed technical trade-offs.
+
+Ultimately, I am learning programming not to become less of a designer, but to make my design work more responsible and more achievable. I want to create ideas that are imaginative while remaining aware of technical reality. By understanding enough about systems and AI-assisted implementation, I will be better able to turn a design intention into a game that a team can build and that players can genuinely experience.

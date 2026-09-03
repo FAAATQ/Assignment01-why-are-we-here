@@ -1,11 +1,20 @@
 # Process record
 
-## Repository setup
+**Date:** 2026-09-03
 
-- **Date:** 2026-09-03
-- An AI coding assistant helped create this independent repository, connect it to GitHub, and add the initial repository structure.
-- The AI did **not** draft the reflection in `README.md`.
+## 1. Brainstorming
 
-## Writing record
+- I used an AI assistant to brainstorm why a game designer should learn programming in an AI-assisted development environment.
 
-Add dated notes here as the reflection develops. Record any AI use accurately, including prompts, suggestions used or rejected, and revisions made by hand.
+## 2. Central position
+
+- I defined the central argument and career goals in Chinese: understand systems and AI-assisted implementation, reduce the gap between design and implementation, gain studio experience first, and eventually lead my own game projects.
+
+## 3. Expansion and review
+
+- The AI suggested ways to expand the argument; I selected, refined, and approved the content used in the reflection.
+
+## 4. Translation and documentation
+
+- The AI translated and organised the approved content in English. I checked that it expressed my intended meaning before it was written to `README.md`.
+- No external sources or quotations were used.
