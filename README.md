@@ -3,7 +3,7 @@
 
 
 
-I am not learning programming in order to replace professional programmers. I am learning it because I want to understand how game systems work and to judge whether an AI-generated implementation actually fits a project's needs. AI tools can now produce code, suggest technical approaches, and build simple prototypes quickly. However, speed alone does not make an idea suitable for a real game project. I want programming knowledge to help me use AI more efficiently and accurately, strengthen my system-thinking and implementation skills, and make the best use of my design ability.
+I am not learning programming in order to replace professional programmers. I am learning it because I want to understand how game systems work and to judge whether an AI-generated implementation actually fits a project's needs. AI tools can now produce code, suggest technical approaches, and build simple prototypes quickly (GitHub, n.d.). However, speed alone does not make an idea suitable for a real game project. I want programming knowledge to help me use AI more efficiently and accurately, strengthen my system-thinking and implementation skills, and make the best use of my design ability.
 
 For a game designer, creativity is not the same as an implementable design. A design document can contain an original concept and a clear player-experience goal, yet still be difficult to deliver if it overlooks the technical limits of existing systems, data structures, state logic, performance costs, or dependencies between features. For example, a proposal for enemies that adapt dynamically to player behaviour may sound compelling, but it also requires clear state transitions, reusable rules, tuning parameters, and acceptable performance when several enemies are active at once. Without considering these questions, a proposal may look excellent on paper while remaining vague or impractical in production.
 
@@ -16,3 +16,7 @@ For this reason, I see programming as a way to take meaningful responsibility fo
 My short-term goal is to join a large game studio and gain experience on industrial-scale productions. I want to learn from established production processes and from collaboration with programmers, artists, animators, and producers. My long-term goal is to lead the development of my own game projects. In a large team, programming knowledge will help me communicate design intent more precisely and reduce friction during implementation. In an independent project, it will help me evaluate prototypes, organise resources, and make informed technical trade-offs.
 
 Ultimately, I am learning programming not to become less of a designer, but to make my design work more responsible and more achievable. I want to create ideas that are imaginative while remaining aware of technical reality. By understanding enough about systems and AI-assisted implementation, I will be better able to turn a design intention into a game that a team can build and that players can genuinely experience.
+
+## References
+
+GitHub. (n.d.). *What is GitHub Copilot?* GitHub Docs. https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot
